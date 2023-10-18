@@ -4,7 +4,8 @@ Predict the recipes for high traffic
 <img src="healthy.png" width="1000">
 
 
-🍴 Recipe Popularity Predictor 🍴
+##🍴 Recipe Popularity Predictor 🍴
+
 In the world of cooking and culinary delights, knowing which recipes will become popular can have a significant impact on website traffic and user engagement. This project aims to predict the popularity of recipes based on a dataset of 1000 recipes, including features such as calories, carbohydrates, sugar, protein, food category, and servings. By leveraging machine learning techniques, we can minimize the chance of displaying unpopular recipes on a website, ultimately attracting more visitors.
 
 
