@@ -1,7 +1,7 @@
 # recipe_site_traffic
 Predict the recipes for high traffic
 
-<img src="healthy.png" width="600">
+<img src="healthy.png" width="1000">
 
 
 🍴 Recipe Popularity Predictor 🍴
