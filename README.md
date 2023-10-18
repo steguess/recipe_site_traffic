@@ -2,9 +2,10 @@
 <img src="healthy.png" width="1000">
 
 
-## 🍽 Tasty Bytes Recipe Popularity Prediction Project🍴
+#🍽 Tasty Bytes Recipe Popularity Prediction Project🍴
 
-📌 Overview
+##📌 Overview
+
 Welcome to the Tasty Bytes Recipe Popularity Prediction project! Our main objective is to predict recipes that will boost our website's traffic and ensure that these selections are correct 80% of the time. Dive into the task, understand the company's context, and get started!
 
 
