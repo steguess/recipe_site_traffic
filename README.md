@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-Welcome to the Tasty Bytes Recipe Popularity Prediction project! Our main objective is to predict recipes that will boost our website's traffic and ensure that these selections are correct 80% of the time. Dive into the task, understand the company's context, and get started!
+Welcome to the Tasty Bytes Recipe Popularity Prediction project! Our main objective is to predict recipes that will boost our website's traffic and ensure that these selections are correct 80% of the time.
 
 
 <img src="website.png" width="1000">
