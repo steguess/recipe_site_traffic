@@ -29,11 +29,13 @@ Compile a detailed report capturing your analytical journey, including the code,
 
 Here are the primary libraries and tools we're using for this project:
 
-Python
 Pandas
-NumPy
-Scikit-Learn
 Matplotlib
+Numpy
+Seaborn
+Keras
+Tensorflow
+Scikit_Learn
 
 ## Authors ✍
 
