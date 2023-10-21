@@ -35,6 +35,8 @@ NumPy
 Scikit-Learn
 Matplotlib
 
+* [![Python][https://www.python.org/][python-url]
+
 ## Authors ✍
 
 Stephanie Gessler: https://github.com/steguess
