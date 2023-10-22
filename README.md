@@ -88,7 +88,6 @@ This structured list provides a clear depiction of the libraries and tools harne
 Stephanie Gessler: https://github.com/steguess
 
 
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
