@@ -93,8 +93,8 @@ Stephanie Gessler: https://github.com/steguess
 <!-- markdownlint-disable -->
 <table>
   <tr>
-
     <td align="center"><a href="https://github.com/steguess"><img src="https://avatars.githubusercontent.com/u/86976901?v=4" width="100px;" alt="Stephanie Gessler"/><br /><sub><b>Stephanie Gessler</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=steguess" title="Frontend Developer">💻</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
