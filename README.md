@@ -12,11 +12,11 @@ Welcome to the Tasty Bytes Recipe Popularity Prediction project! Our main object
 <img src="website.png" width="1000">
 
 
-🏢 Background
+##🏢 Background
 
 Founded in 2020, Tasty Bytes emerged during the Covid Pandemic as a beacon for food enthusiasts. Initially introduced as a recipe search engine, it later transitioned into a comprehensive culinary platform offering tailored meal plans. With the right recipe displayed on the homepage, we've seen traffic boosts of up to 40%, leading to higher subscription rates. Your role? Use data science magic to predict these traffic-boosting recipes!
 
-🎯 Challenge
+##🎯 Challenge
 
 Predict recipes that lead to high traffic.
 Aim for 80% accuracy in these predictions.
@@ -49,35 +49,35 @@ Compile a detailed report capturing your analytical journey, including the code,
 The project navigated from data preprocessing to model evaluation meticulously, leading to the selection of the Extra Tree Classifier for predicting high traffic recipes. The structured approach adopted not only meets the goal of accurately predicting high traffic recipes but also sets a pathway for future machine learning tasks within this domain. The recommendations provided aim to optimize the content showcased to users, enhancing user engagement and traffic on Tasty Bytes.
 
 
-# 💻 Technology Stack 💻
+## 💻 Technology Stack 💻
 
 Here's the list of primary libraries and tools utilized in this project, organized and categorized for better understanding:
 
-## 📊 Data Manipulation and Analysis:
+### 📊 Data Manipulation and Analysis:
 - **Pandas**: For data manipulation and analysis.
 - **Numpy**: For numerical operations.
 
-## 🎨 Data Visualization:
+### 🎨 Data Visualization:
 - **Matplotlib**: For plotting and data visualization.
 - **Seaborn**: For statistical data visualization.
 
-## 📈 Statistical Analysis:
+### 📈 Statistical Analysis:
 - **Scipy**: For statistical analysis and hypothesis testing.
 
-## 🤖 Machine Learning and Model Evaluation:
+### 🤖 Machine Learning and Model Evaluation:
 - **Scikit-Learn**: For various machine learning algorithms, model evaluation, and data preprocessing.
 - **XGBoost**: For gradient boosting framework that provides an efficient implementation of this model.
   
-## 🌲 Ensemble Methods:
+### 🌲 Ensemble Methods:
 - **ExtraTreesClassifier**: For implementing the Extra Trees algorithm.
 - **RandomForestClassifier**: For implementing the Random Forest algorithm.
 - **VotingClassifier**: For implementing the Voting Classifier algorithm.
 - **GradientBoostingClassifier**: For implementing the Gradient Boosting algorithm.
 
-## 🔄 Model Optimization:
+### 🔄 Model Optimization:
 - **GridSearchCV**: For hyperparameter tuning and model selection.
 
-## 🌐 Auto Machine Learning:
+### 🌐 Auto Machine Learning:
 - **H2O**: For automatic machine learning.
 
 This structured list provides a clear depiction of the libraries and tools harnessed for different aspects of the project, making it easy to understand the technological foundation upon which the project is built.
