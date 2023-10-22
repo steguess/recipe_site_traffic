@@ -12,11 +12,11 @@ Welcome to the Tasty Bytes Recipe Popularity Prediction project! Our main object
 <img src="website.png" width="1000">
 
 
-##🏢 Background
+## 🏢 Background
 
 Founded in 2020, Tasty Bytes emerged during the Covid Pandemic as a beacon for food enthusiasts. Initially introduced as a recipe search engine, it later transitioned into a comprehensive culinary platform offering tailored meal plans. With the right recipe displayed on the homepage, we've seen traffic boosts of up to 40%, leading to higher subscription rates. Your role? Use data science magic to predict these traffic-boosting recipes!
 
-##🎯 Challenge
+## 🎯 Challenge
 
 Predict recipes that lead to high traffic.
 Aim for 80% accuracy in these predictions.
